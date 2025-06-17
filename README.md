@@ -2,6 +2,7 @@
 Hides the "Experiencing interruptions?" message or the JellyBully error.
 
 ![Jelly Bully error](https://github.com/user-attachments/assets/e007a099-8f4f-4cca-bb4f-e784edf9516a)
+
 (sorry if the screenshot is not English)
 You might have got this if you are using an adblocker on YouTube, such as uBlock. It's annoying and it also delays video start.
 
@@ -16,4 +17,5 @@ Don't worry, the JellyBully Hider extension will hide it, before it is even show
 6. You're done.
 
 NOTE: Chromium-based browsers (such as Chrome, Edge) might nag you with the message "Disable developer mode extensions". Just ignore that.
-If it is not working, post an issue.
+
+If it is not working, create a new issue.
