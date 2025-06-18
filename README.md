@@ -17,6 +17,10 @@ Don't worry, the JellyBully Hider extension will hide it, before it is even show
 5. Open YouTube with an adblocker and try to watch a video.
 6. You're done.
 
-NOTE: Chromium-based browsers (such as Chrome, Edge) might nag you with the message "Disable developer mode extensions". Just ignore that. Also, this extension **DOESN'T** fix the delay start issue.
+> [!IMPORTANT]
+> This does not fix the buffering issue. If you want a script, or an extension that fully removes both this message and the buffering, search up.
+
+> [!NOTE]
+> Chromium-based browsers (such as Chrome, Edge) might pop up this message: "Disable developer mode extensions" upon startup.
 
 If it is not working, create a new issue.
